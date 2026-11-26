@@ -1,8 +1,8 @@
 {
-  "name": "tiktok-repost-remover",
-  "version": "1.0.0",
+  "name": "tiktok-cleanup",
+  "version": "2.0.0",
   "private": true,
-  "description": "Remove every TikTok repost on your account, automatically, from your own browser.",
+  "description": "Clear your TikTok reposts, likes, favorites and following — automatically, from your own browser.",
   "license": "MIT",
   "scripts": {
     "test": "node test/run.js"
