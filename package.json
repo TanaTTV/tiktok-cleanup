@@ -1,0 +1,13 @@
+{
+  "name": "tiktok-repost-remover",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Remove every TikTok repost on your account, automatically, from your own browser.",
+  "license": "MIT",
+  "scripts": {
+    "test": "node test/run.js"
+  },
+  "devDependencies": {
+    "jsdom": "^24.1.3"
+  }
+}
