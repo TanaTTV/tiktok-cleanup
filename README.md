@@ -40,7 +40,7 @@ TikTok only lets you un-repost videos one at a time. With a few thousand reposts
 
 ## Features
 
-|  |  |
+| Feature | What it does |
 |---|---|
 | **No scrolling, no lag** | Reads your repost list straight from TikTok — thousands of reposts, one run. |
 | **Test before you commit** | `Test 5` removes five so you can verify before running everything. |
